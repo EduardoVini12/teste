@@ -1,0 +1,1 @@
+mandando da maquina para o github , usando o comando push
